@@ -1,6 +1,6 @@
 /**
  * Java. Level 1. Lesson 4. Homework
- *
+ *iiii
  * @author Roman Stepanyuk
  * @version dated Feb 08, 2018
  */
